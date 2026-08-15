@@ -1,9 +1,15 @@
+html,
 body {
     margin: 0;
-    background-color: navy;
+    width: 100%;
+    height: 100%;
+    background-color: #000080;
     overflow: hidden;
 }
 
 #heartCanvas {
     display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #000080;
 }
