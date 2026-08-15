@@ -29,7 +29,6 @@ function drawHeart() {
         ctx.beginPath();
 
         ctx.moveTo(centerX, centerY);
-
         ctx.lineTo(centerX + x, centerY - y);
 
         ctx.strokeStyle = "#d81b60";
